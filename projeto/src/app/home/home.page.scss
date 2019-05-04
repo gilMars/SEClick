@@ -1,9 +1,21 @@
 .welcome-card ion-img {
-  max-height: 35vh;
+  max-height: 50vh;
   overflow: hidden;
 }
 
 ion-toolbar {
   --background: linear-gradient(to right, rgb(18, 65, 165), rgb(55, 108, 206));
   color: white
+}
+
+ion-title {
+ // width: 5vw;
+}
+
+.buscador-conteudo {
+  --background: white;
+  //max-width: 75vw;
+  width: 100vw;
+  border-radius: 10px;
+  text-align: left;
 }
