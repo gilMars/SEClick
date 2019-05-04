@@ -1,0 +1,9 @@
+.welcome-card ion-img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+
+ion-toolbar {
+  --background: linear-gradient(to right, #3700B3, #6200EE);
+  color: white
+}
