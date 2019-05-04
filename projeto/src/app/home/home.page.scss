@@ -8,14 +8,13 @@ ion-toolbar {
   color: white
 }
 
-ion-title {
- // width: 5vw;
-}
-
 .buscador-conteudo {
   --background: white;
-  //max-width: 75vw;
   width: 100vw;
   border-radius: 10px;
   text-align: left;
+}
+
+.buscador-conteudo ion-icon {
+  font-size: 2rem;
 }
